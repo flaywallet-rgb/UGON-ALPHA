@@ -1,0 +1,17 @@
+{
+  "name": "pro-wallet-backend",
+  "version": "1.0.0",
+  "description": "Background Deposit Tracker for Web3 Wallet",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "ethers": "^6.7.0",
+    "firebase-admin": "^12.0.0"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
